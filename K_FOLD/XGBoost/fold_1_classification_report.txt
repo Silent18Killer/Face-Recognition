@@ -1,0 +1,18 @@
+Fold 1 Results:
+Test Accuracy: 0.89
+Precision: 0.8696
+Recall: 0.9045
+F1-Score: 0.8867
+Training Loss: 0.0221
+Test Loss: 0.2971
+AUC: 0.9506
+Classification Report:
+              precision    recall  f1-score   support
+
+         man       0.90      0.87      0.88       202
+       women       0.87      0.90      0.89       199
+
+    accuracy                           0.89       401
+   macro avg       0.89      0.89      0.89       401
+weighted avg       0.89      0.89      0.89       401
+--------------------------------------------------

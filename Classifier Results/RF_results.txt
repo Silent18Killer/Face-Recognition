@@ -1,0 +1,16 @@
+Random Forest Model Results:
+Accuracy: 0.87
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         man       0.89      0.87      0.88       263
+       women       0.86      0.88      0.87       238
+
+    accuracy                           0.87       501
+   macro avg       0.87      0.87      0.87       501
+weighted avg       0.87      0.87      0.87       501
+
+Additional Metrics:
+Specificity: 0.8707
+Mean Squared Error (MSE): 0.1257

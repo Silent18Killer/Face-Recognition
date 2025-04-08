@@ -1,0 +1,16 @@
+Decision Tree Model Results:
+Accuracy: 0.79
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         man       0.83      0.76      0.80       263
+       women       0.76      0.83      0.79       238
+
+    accuracy                           0.79       501
+   macro avg       0.80      0.80      0.79       501
+weighted avg       0.80      0.79      0.79       501
+
+Additional Metrics:
+Specificity: 0.7643
+Mean Squared Error (MSE): 0.2056

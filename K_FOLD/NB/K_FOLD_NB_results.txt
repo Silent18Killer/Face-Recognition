@@ -1,0 +1,8 @@
+Average Results Across 5 Folds:
+Average Test Accuracy: 0.88
+Average Precision: 0.8791
+Average Recall: 0.8896
+Average F1-Score: 0.8840
+Average Training Loss: 0.0003
+Average Test Loss: 1.1532
+Average AUC: 0.9403
