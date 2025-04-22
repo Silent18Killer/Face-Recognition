@@ -10,4 +10,5 @@ https://www.kaggle.com/datasets/maciejgronczynski/biggest-genderface-recognition
     <li><a href="https://github.com/prates09">Pratyush Singh</a></li>
     <li><a href="https://github.com/deepcodess">Deep Saha</a></li>
     <li><a href="https://github.com/Piyush-Anand-10">Piyush Anand</a></li>
+    <li>Tannistha Mishra</li>
 </ul>
